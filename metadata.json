@@ -1,0 +1,7 @@
+{
+  "name": "Tides Community Voice Assistant",
+  "description": "A voice-first concierge for The Tides Homeowner Association.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
